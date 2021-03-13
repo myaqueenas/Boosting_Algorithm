@@ -1,2 +1,2 @@
 # Boosting_Algorithm
-Wine
+Wine Taste Classification
